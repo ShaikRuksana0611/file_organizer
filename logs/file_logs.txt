@@ -1,0 +1,6 @@
+2025-01-25 11:10:36,281 - Moved: calculator_gui.py -> Others/
+2025-01-25 11:10:36,283 - Moved: console_calculator.py -> Others/
+2025-01-25 11:10:36,285 - Moved: file_organizer.py -> Others/
+2025-01-25 11:10:36,293 - Moved: main.py -> Others/
+2025-01-25 11:10:36,296 - Moved: requirements.txt -> Documents/
+2025-01-25 11:26:01,705 - Moved: main.py -> Others/
